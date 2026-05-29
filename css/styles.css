@@ -438,6 +438,9 @@ ul {
 .hero .trust{
   text-align: left;
 }
+.cta-band{
+          padding: 2.5rem 20px 4rem!important;
+}
 }
 
 .eyebrow {
